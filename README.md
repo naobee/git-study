@@ -8,9 +8,9 @@
   - タグを追加すると、GitHub ではダウンロード用の zip ファイルが自動で作られる
 
 # Git へのcommitとpush手順
-git status
-git add ファイルorディレクトリ名
-git commit -m "コミットメッセージの内容"
-git push origin main
+git status  
+git add ファイルorディレクトリ名  
+git commit -m "コミットメッセージの内容"  
+git push origin main  
 
-以上でGitHubへと変更が適用される
+以上でGitHubへと変更が適用される  
